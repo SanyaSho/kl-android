@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="srcmod_app_name">Kayf-Life</string>
+    <string name="kl_commit">147f970</string>
+    <string name="kl_update_url">https://raw.githubusercontent.com/SanyaSho/SanyaSho/master/kl-android-version</string>
+</resources>

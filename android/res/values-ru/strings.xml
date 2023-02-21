@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="srceng_launcher_command_args">Подкрутки хакерских примочек</string>
+    <string name="kl_update">Обнову выкатили!</string>
+    <string name="kl_game_fatal_title">Пиздец!</string>
+    <string name="kl_game_fatal_desc">пошёл нахуй\n(убрал -game из подкруток быра)</string>
+    <string name="kl_source_engine_fatal">А нука, иди ставь сорс!\nhttps://discord.gg/gXPQknA5Ed</string>
+    <string name="srceng_launcher_about_title">О порте</string>
+    <string name="srceng_launcher_about_text">Спасибо nillerusr за порт\nvalve за source engine\n\nНе для коммерческого использования!\nКонтакты: unknownandlost11@gmail.com\n\nДонат: https://new.donatepay.ru/@nillerusr\nBTC(Bitcoin): bc1qnjq92jj9uqjtafcx2zvnwd48q89hgtd6w8a6na\nXMR(Monero): 48iXvX61MU24m5VGc77rXQYKmoww3dZh6hn7mEwDaLVTfGhyBKq2teoPpeBq6xvqj4itsGh6EzNTzBty6ZDDevApCFNpsJg</string>
+    <string name="srceng_launcher_launch">Понеслась!</string>
+    <string name="srceng_launcher_ok">КOK</string>
+    <string name="srceng_launcher_error">Пизда!</string>
+</resources>
