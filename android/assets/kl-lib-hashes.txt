@@ -23,4 +23,9 @@ e53a7654b8b1017b19484e5fb0dab623b91392ad  android-libs/kl/armeabi-v7a/libclient.
 f450e1fe19937ba19f18241c0a61ffec7c97734b  android-libs/kl/armeabi-v7a/libserver.so
 
 // 1.26 (1.16)
-
+3a4672c0d646180c4449ca453f8b6b3180b09f42  android-libs/kl/arm64-v8a/libgame_shader_dx9.so
+d42d9c5dcc1dba575da2cd887e775c9f25f2e2d4  android-libs/kl/arm64-v8a/libserver.so
+c7fd23fafc87f5b226f7dcabbb56191f3c2c9122  android-libs/kl/arm64-v8a/libclient.so
+7012fa4e6ced969546f4eeb2a932fa0c5191dbfc  android-libs/kl/armeabi-v7a/libgame_shader_dx9.so
+f4198bfd8eb0628950fee9dfba1537ad667144ab  android-libs/kl/armeabi-v7a/libserver.so
+00caee3f787dc4958dcd6a4156ca00264a91e9b3  android-libs/kl/armeabi-v7a/libclient.so
