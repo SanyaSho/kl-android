@@ -1,5 +1,5 @@
 *.pfx
-*.sh
+*.apk
 build/
 .waf*
 .lock*
